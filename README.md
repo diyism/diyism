@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @diyism
-- 👀 I’m interested in web, android(goAndView), blockchain etc
+- 👀 I’m interested in web(smelte), android(goAndView), blockchain etc
 - 🌱 I’m currently learning golang(gofork), php(swoole)
